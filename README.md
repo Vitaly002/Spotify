@@ -15,9 +15,9 @@ Frontend: React, React Router, Tailwind CSS
 
 State Management: React Context API, React Hooks (useEffect, useRef)
 
-Routing: React Router for navigating between components
+Routing: React Router for seamless component navigation
 
-Styling: Tailwind CSS for styling components
+Styling: Tailwind CSS for a polished and modern look
 
 ### Components
 AlbumItem: Displays an album with an image and basic details. Navigates to album details on click.
