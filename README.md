@@ -32,6 +32,6 @@ Navbar: Your navigation compass, offering quick access to premium features and i
 
 Player: Your personal music control center with play, pause, seek, and time display functionalities for a tailored listening experience.
 
-Sidebar: Offers convenient navigation options and quick links to your personal library.
+Sidebar: Displays convenient navigation options and quick links to your personal library.
 
 SongItem: Highlights individual songs within an album, complete with playback controls and song specifics.
