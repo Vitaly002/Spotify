@@ -19,15 +19,19 @@ Routing: React Router for seamless component navigation
 
 Styling: Tailwind CSS for a polished and modern look
 
-### Components
-AlbumItem: Displays an album with an image and basic details. Navigates to album details on click.
+### Key Components
+AlbumItem: Showcases album information with vibrant imagery and details; click to navigate to detailed album views.
 
-Display: Renders the main display area with routing and dynamic background styling based on album context.
+Display: The central hub of the application, featuring dynamic backgrounds and routing for an engaging user experience.
 
-DisplayAlbum: Shows detailed information about a specific album and its songs.
+DisplayAlbum: Provides in-depth details about specific albums and their tracks, enhancing album exploration.
 
-Navbar: Provides navigation controls and quick access to features like exploring premium and installing the app.
+DisplayHome: The captivating landing page that presents an overview and easy access to all sections of the app.
 
-Player: Controls audio playback with play, pause, seek, and time display functionalities.
+Navbar: Your navigation compass, offering quick access to premium features and installation options.
 
-Sidebar: Includes navigation options and links to user library
+Player: Your personal music control center with play, pause, seek, and time display functionalities for a tailored listening experience.
+
+Sidebar: Offers convenient navigation options and quick links to your personal library.
+
+SongItem: Highlights individual songs within an album, complete with playback controls and song specifics.
